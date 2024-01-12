@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Hello there! 👋 I'm Djibbe Christian, a passionate software engineering student on a journey to transform ideas into elegant and efficient code. Currently, I'm in my final year at UNILAK, honing my skills and exploring the vast world of software development.</p>
+<p align="left">Hello there! 👋 I'm Djibbe Christian, a passionate software engineering student on a journey to transform ideas into elegant and efficient code. Currently, I'm in my final year at UNILAK and ALX student, honing my skills and exploring the vast world of software development.</p>
 
 ###
 
