@@ -1,5 +1,6 @@
 
-<img align="center" height="150"  src="https://lh3.googleusercontent.com/a/ACg8ocKgCDIHNjtT3Q-fdWiwPtqrjjPg23CMNOkx6uouskUA=s288-c-no" style="border-radius: 50" />
+<img align="center" height="150"  src="![Uploading djibeprofile.png…]()
+" style="border-radius: 50" />
 
 
 ###
