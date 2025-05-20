@@ -45,7 +45,7 @@ I recently completed a Software Engineering Fellowship at **Headstarter (USA)** 
   <b>💼 What I’m Working On</b>
 
 - 🔐 [DiguinaPortefeuille](https://github.com/DjibbeDiguina/-Expense-Tracker-Pro.git): A finance-tracking app using FastAPI + Streamlit
-- 🤖 [Diguina AI Generator](https://github.com/DjibbeDiguina/diguina-ai-content-generator): AI-powered platform built with Next.js + PostgreSQL
+- 🤖 [Diguina AI Generator](https://github.com/DjibbeDiguina/Diguina-AI-Generator.git): AI-powered platform built with Next.js + PostgreSQL
 - ✍️ [Diguinafils Blog](https://github.com/DjibbeDiguina/diguinafilsBlog): Modern Django blog platform for sharing insights
 </p>
 
