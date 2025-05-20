@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left"># 👋 Hello, I'm Djibbe Christian Diguina!
-
-🎓 Software Engineering Graduate | 🧠 Python & FastAPI Specialist | 🤖 AI & Data Enthusiast | 🌍 Kigali, Rwanda
-
----.</p>
+<p align="left">
+I'm a passionate software engineer focused on building impactful, scalable solutions using <b>Python, FastAPI, SQL, and AI </b>. With a strong foundation in <b>backend development</b>, <b>data analysis</b>, and <b>machine learning</b>, I turn complex challenges into clean, performant, and user-friendly applications.
+  
+I recently completed a Software Engineering Fellowship at **Headstarter (USA)** and a Full Stack Developer Internship at **Future Interns (India)** — where I contributed to real-world AI-powered and cloud-native solutions.
+</p>
 
 ###
 
@@ -24,7 +24,14 @@
 
 ###
 
-<p align="left">Languages: Python, JavaScript, C, C#, Java<br>Web Development: I enjoy crafting responsive and user-friendly web applications using technologies like HTML, CSS, and React.js.<br>Problem Solving: I love tackling complex problems and finding innovative solutions through code.</p>
+<p align="left">
+  💡 I love solving problems with:<br><br>
+- 🔧 FastAPI, Django, Flask<br>
+- 📊 Pandas, NumPy, SQL<br>
+- 💻 React, Next.js, Tailwind<br>
+- ☁️ AWS, Streamlit, Git<br>
+  
+</p>
 
 ###
 
@@ -32,7 +39,15 @@
 
 ###
 
-<p align="left">In the ever-evolving field of technology, I believe in the importance of continuous learning. I'm currently diving deep into Flask.</p>
+<p align="left">In the ever-evolving field of technology, I believe in the importance of continuous learning:</p>
+
+<p>
+  <b>💼 What I’m Working On</b>
+
+- 🔐 [DiguinaPortefeuille](https://github.com/DjibbeDiguina/diguinaportefeuille): A finance-tracking app using FastAPI + Streamlit
+- 🤖 [Diguina AI Generator](https://github.com/DjibbeDiguina/diguina-ai-content-generator): AI-powered platform built with Next.js + PostgreSQL
+- ✍️ [Diguinafils Blog](https://github.com/DjibbeDiguina/diguinafilsBlog): Modern Django blog platform for sharing insights
+</p>
 
 ###
 
@@ -67,6 +82,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/djibbediguina/)
+- 🌐 [Personal Portfolio](https://diguina.tech/)
+- 📩 diguinafils1@gmail.com
+
+I’m currently looking for **Backend**, **Full Stack**, or **AI/Data Engineering roles** where I can grow, contribute, and solve meaningful problems alongside world-class teams.
+
+Let’s build something amazing.
 
 ###
 
